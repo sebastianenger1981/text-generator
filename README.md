@@ -6,5 +6,5 @@ Zu Recht & Recht Haben | RECHTHABEN.NET : Wir besprechen die Verteidigung von In
 
 <b><a href="https://www.artikelschreiber.com/advanced/de/" target="_self" hreflang="de" title="ArtikelSchreiber.com - Erweiterte Suche">ArtikelSchreiber.com - Erweiterte Suche</a></b><br>
 <li>https://www.artikelschreiber.com/status/ - ArtikelSchreiber.com Changelog and Status Information</li>  
-<a href="https://substack.com/@sebastianenger" target='_self' hreflang='de' title="Sebastian Enger auf Substrack">Sebastian Enger auf Substrack</a> <br>
-<a href="https://artikelschreiber.substack.com/p/die-evolution-des-webinhalts-von" target='_self' hreflang='de' title="Die Evolution des Webinhalts: Von KI zu AGI">Die Evolution des Webinhalts: Von KI zu AGI</a><br>
+<li><a href="https://substack.com/@sebastianenger" target='_self' hreflang='de' title="Sebastian Enger auf Substrack">Sebastian Enger auf Substrack</a></li>   <br>
+<li><a href="https://artikelschreiber.substack.com/p/die-evolution-des-webinhalts-von" target='_self' hreflang='de' title="Die Evolution des Webinhalts: Von KI zu AGI">Die Evolution des Webinhalts: Von KI zu AGI</a></li>  <br>
