@@ -8,8 +8,39 @@ Zu Recht & Recht Haben | RECHTHABEN.NET : Wir besprechen die Verteidigung von In
 <li>https://www.artikelschreiber.com/status/ - ArtikelSchreiber.com Changelog and Status Information</li>  
 <li><a href="https://substack.com/@sebastianenger" target='_self' hreflang='de' title="Sebastian Enger auf Substrack">Sebastian Enger auf Substrack</a></li>   <br>
 <li><a href="https://artikelschreiber.substack.com/p/die-evolution-des-webinhalts-von" target='_self' hreflang='de' title="Die Evolution des Webinhalts: Von KI zu AGI">Die Evolution des Webinhalts: Von KI zu AGI</a></li>  <br>
-<li>Veröffentlichung von: <a href="https://rechthaben.net/beratung/schufa-score-und-profiling-formel/" target='_self' hreflang='de' title="Schufa Score: Formel und Profiling leicht erklärt">Schufa Score: Formel und Profiling leicht erklärt</a></li>
-				<li>Veröffentlichung von: <a href="https://rechthaben.net/lifestyle/gedicht-mgtow-men-going-their-own-way/" target='_self' hreflang='de' title="Gedicht: MGTOW - Men Going Their Own Way">Gedicht: MGTOW - Men Going Their Own Way</a></li>
-				<li>Veröffentlichung von: <a href="https://rechthaben.net/lifestyle/gedicht-your-beautiful-blue-eyes/" target='_self' hreflang='de' title="Gedicht: Your beautiful blue Eyes (für Laura Faye)">Gedicht: Your beautiful blue Eyes (für Laura Faye)</a></li>
-				<li>Veröffentlichung von: <a href="https://rechthaben.net/beratung/feststellung-der-staatsangehoerigkeit/" target='_self' hreflang='de' title="Feststellung der deutschen Staatsangehörigkeit">Feststellung der deutschen Staatsangehörigkeit</a></li>
-<li>Veröffentlichung von: <a href="https://www.artikelschreiber.com/guestblogging/" target='_self' hreflang='en' title="Free Guest Blogging and SEO Backlink">Free Guest Blogging and SEO Backlink</a></li>
+
+<li role="listitem">
+					<a href="https://de.slideshare.net/slideshow/wie-kann-ich-eine-inkasso-forderung-abwehren-www-unaique-net/270507889" 
+					   rel="follow" 
+					   title="SlideShare: Inkasso Forderung Abwehren">SlideShare: Inkasso Forderung Abwehren</a>
+				</li>
+				<li role="listitem">
+					<a href="https://de.scribd.com/document/753386955/Wie-Kann-Ich-Eine-Inkasso-Forderung-Abwehren-www-unaique-net" 
+					   rel="follow" 
+					   title="Scribd: Inkasso Forderung Abwehren">Scribd: Inkasso Forderung Abwehren</a>
+				</li>
+				<li role="listitem">
+					<a href="https://leanpub.com/wie_kann_ich_eine_inkasso_forderung_abwenden/upload" 
+					   rel="follow" 
+					   title="Leanpub: Inkasso Forderung Abwenden">Leanpub: Inkasso Forderung Abwenden</a>
+				</li>
+				<li role="listitem">
+					<a href="https://www.academia.edu/122346756/Wie_kann_ich_eine_Inkasso_Forderung_abwehren_www_unaique_net_" 
+					   rel="follow" 
+					   title="Academia: Inkasso Forderung Abwehren">Academia: Inkasso Forderung Abwehren</a>
+				</li>
+				<li role="listitem">
+					<a href="https://archive.org/details/2024-07-24-wie-kann-ich-eine-inkasso-forderung-abwehren-www.unaique.net" 
+					   rel="follow" 
+					   title="Internet Archive: Inkasso Forderung Abwehren">Internet Archive: Inkasso Forderung Abwehren</a>
+				</li>
+				<li role="listitem">
+					<a href="https://www.lulu.com/spotlight/sebastianenger" 
+					   rel="follow" 
+					   title="Lulu: Sebastian Enger">Lulu: Sebastian Enger</a>
+				</li>
+				<li role="listitem">
+					<a href="https://issuu.com/sebastianenger/docs/2024-07-24_wie_kann_ich_eine_inkasso_forderung_abw" 
+					   rel="follow" 
+					   title="Issuu: Inkasso Forderung Abwehren">Issuu: Inkasso Forderung Abwehren</a>
+				</li>
