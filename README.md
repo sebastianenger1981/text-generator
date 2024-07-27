@@ -29,16 +29,25 @@ Zu Recht & Recht Haben | RECHTHABEN.NET : Wir besprechen die Verteidigung von In
 					   rel="follow" 
 					   title="Academia: Inkasso Forderung Abwehren">Academia: Inkasso Forderung Abwehren</a>
 				</li>
+				
 				<li role="listitem">
-					<a href="https://archive.org/details/2024-07-24-wie-kann-ich-eine-inkasso-forderung-abwehren-www.unaique.net" 
+					<a href="https://issuu.com/sebastianenger" 
 					   rel="follow" 
-					   title="Internet Archive: Inkasso Forderung Abwehren">Internet Archive: Inkasso Forderung Abwehren</a>
+					   title="https://issuu.com/sebastianenger">Issuu: Sebastian Enger Profile</a>
 				</li>
+				
 				<li role="listitem">
 					<a href="https://www.lulu.com/spotlight/sebastianenger" 
 					   rel="follow" 
 					   title="Lulu: Sebastian Enger">Lulu: Sebastian Enger</a>
 				</li>
+				
+				<li role="listitem">
+					<a href="https://hs-mittweida.academia.edu/SebastianEnger" 
+					   rel="follow" 
+					   title="Academia: Sebastian Enger">Academia: Sebastian Enger</a>
+				</li>
+								
 				<li role="listitem">
 					<a href="https://issuu.com/sebastianenger/docs/2024-07-24_wie_kann_ich_eine_inkasso_forderung_abw" 
 					   rel="follow" 
